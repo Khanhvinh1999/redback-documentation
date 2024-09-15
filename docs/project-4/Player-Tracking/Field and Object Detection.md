@@ -24,7 +24,9 @@ I attempted to train myself with the same dataset, but could not achieve nearly 
 
 ## Example
 
-- ![Image](https://ibb.co/hgg5ydN)
+- ![Image](https://i.ibb.co/YyyMsrC/image.png)
+- ![Annotated Image](https://i.ibb.co/9whmLhj/annotated.png)
+- ![Transformed Image](https://i.ibb.co/Rggn96K/transformed.png)
 
 
 ## Prerequsites
