@@ -24,9 +24,7 @@ I attempted to train myself with the same dataset, but could not achieve nearly 
 
 ## Example
 
-- **Image**(https://ibb.co/hgg5ydN
-https://ibb.co/vshCGh8
-https://ibb.co/F00MTPr)
+- ![Image](https://ibb.co/hgg5ydN)
 
 
 ## Prerequsites
