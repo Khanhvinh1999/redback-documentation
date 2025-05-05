@@ -11,7 +11,7 @@ Computer Vision (CV) is used in traffic anlysis, automation of manufacturing pro
 
 **YOLOv8** is a state of the art to monitor and track people in real-time. By combine that with Supervision library, we can detect and track people. 
 
-![YOLOv8 performance](img\image.png)
+![YOLOv8 performance](img/image.png)
 Source: https://docs.ultralytics.com/models/yolov8/
 
 ## Installation
@@ -85,14 +85,14 @@ Testing Live Tracking with [this GitHub repository](https://github.com/Khanhvinh
 Please refer to [steps to set up RTSP Camera](https://github.com/Khanhvinh1999/redback-orion/blob/main/Crowd_Monitoring/Live_Tracking/README.md#retrieving-rtsp)
 
 ### Result
-![Live Camera Tracking](img\live_camera.png)
+![Live Camera Tracking](img/live_camera.png)
 
 ## Camo app - Virtue Camera 
 We will need to download it on your mobile device and PC via App store/Google Play. After setup the app via QR code, we can now use our mobile device as a virtue camera for VS Code.
-![Camo](img\Camo.png)
+![Camo](img/Camo.png)
 
 **Result** 
-![Camo demo result](img\demo.gif)
+![Camo demo result](img/demo.gif)
 ## Visualization
 We will need to visualize data to display and analysis on dashboard. 
 
@@ -106,8 +106,8 @@ Your security camera images are distorted. For example, a one pixel movement at 
 
 >Homography Transformation is the solution for camera mapping. 
 
-![Homography Transformation](img\image-1.png)
-![Homography Transformation](img\image-2.png)
+![Homography Transformation](img/image-1.png)
+![Homography Transformation](img/image-2.png)
 Source: https://zbigatron.com/mapping-camera-coordinates-to-a-2d-floor-plan/
 
 We need to calculate corresponse mapping matrix H for homography transformation. We can create the matrix by choosing pixel coordinates in camera view and corresponding pixel coordinates in matching image (at least 4 points).
@@ -129,7 +129,7 @@ This approach allows for precise mapping of camera coordinates to real-world flo
 
 >Use matrix H to performed track points transformation to plot path on map 2D floor plane.
 
-![Matrix Transformation](img\image-3.png)
+![Matrix Transformation](img/image-3.png)
 
 ![Path Visualization Result](img/Demo_Path.jpg)
 *Visualization Result: YOLOv8 detection with tracking paths (left) mapped to floor plan (right) using homography transformation*
@@ -193,7 +193,7 @@ Fetching and draw track path of camera view
 
 **Draw floor plan**
 ## Results
-![Transformation result](img\gif.gif)
+![Transformation result](img/gif.gif)
 
 ## Contributing
 Contributions are welcome! Please follow the standard contribution guidelines:
